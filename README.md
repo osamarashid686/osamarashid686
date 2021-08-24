@@ -4,7 +4,7 @@ I am a <b>Front-End Developer and Student</b>
 
 🚀 I am currently learning JsReact / Bootstrap
 
-🔭 I’m currently building my main porfolio project
+🔭 I’m currently building my main Portfolio project
 
 📚 2021 Goals: Learn improve my skill set and deploy it on my work
 
