@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Main Portfolio project**
 
-- 🌱 I’m currently learning **JS-React / Bootstrap**
+- 🌱 I’m currently learning **JS-React**
 
 - 🤝 I’m looking for **internship!**
 
